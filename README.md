@@ -1,6 +1,6 @@
 # Sensa-Schei
 
-Progetto e codici del robot "Black Eminence" per la competizione RoboCup Junior Maze 2023.
+Progetto e codici del robot "Baila" per la competizione RoboCup Junior Maze 2024.
 
 Tuca Adrian Daniel, Mendo Martino, Pivirotto Riccardo
 
