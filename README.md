@@ -6,8 +6,8 @@ Tuca Adrian Daniel, Mendo Martino, Pivirotto Riccardo
 
 ITIS Silvio De Pretto, SCHIO (VI)
 
-https://www.depretto.edu.it/pagine/litis-de-pretto-campione-italiano-di-robocup-junior
+https://www.depretto.edu.it/
 
-VIDEO GARE NAZIONALI ROBOCUP JUNIOR VERBANIA 2024
+DOCUMENTAZIONE E VIDEO GARE NAZIONALI ROBOCUP JUNIOR VERBANIA 2024
 
-https://drive.google.com/drive/folders/1-HMByTuPI5-7_rOt5_-AOYz_q1ojtnR8?usp=sharing
+https://drive.google.com/drive/folders/1H3W_r3_U4F-3VNbD8HbQd-i9Rm53idgL?usp=drive_link
